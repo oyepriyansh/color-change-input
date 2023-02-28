@@ -1,0 +1,2 @@
+- [Preview](https://oyepriyansh.github.io/color-change-input)
+- [Video](https://youtube.com/shorts/ZOBjhFml0OA)
